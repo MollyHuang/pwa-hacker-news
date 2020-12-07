@@ -1,2 +1,2 @@
 # pwa-hacker-news
-it is a exercise
+it is a PWA & Hacker News API exercise
